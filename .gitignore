@@ -1,0 +1,5 @@
+*.class
+AdminApp/tempCodeRunnerFile.java
+ChatUI/ChatGroupUI/.project
+ChatUI/ChatPrivateUI/.project
+ClientApp/tempCodeRunnerFile.java
